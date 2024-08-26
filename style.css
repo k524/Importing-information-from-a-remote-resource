@@ -1,0 +1,54 @@
+.list-group-item:hover {
+    background-color: blue;
+    color: white;
+}
+
+.list-group-item:focus {
+    background-color: blue;
+    color: white;
+}
+
+.list-group-item:active {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+
+a {
+    cursor: pointer;
+}
+
+.list-group {
+    margin-bottom: 15px;
+}
+
+.nav-item:hover {
+    background-color: blue;
+    color: white;
+}
+
+.nav-item:focus {
+    background-color: blue;
+    color: white;
+}
+
+.nav-item:active {
+    background-color: black;
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.nav-link:focus {
+    color: white;
+}
+
+.nav-link:active {
+    color: white;
+}
